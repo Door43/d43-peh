@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[peh:home|Door43 (peh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-peh|d43-peh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-peh/archive/master.zip|d43-peh.zip]]
+
+**Recent Changes**
+{{changes>ns = peh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/peh|Ethnologue data]]
+
